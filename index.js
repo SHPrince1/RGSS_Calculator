@@ -5,15 +5,6 @@ const buttons = document.querySelectorAll('button')
 // console.log(buttons)
 
 
-
-// backspace
-function back() {
-    var value = document.getElementById("d").value;
-    document.getElementById("d").value = value.substr(0, value.length - 1);
-}
-
-
-// ;;;;;;;
 let calculation =[]
 let accumulativeCalculation=[]
 
