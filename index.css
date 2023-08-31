@@ -13,6 +13,7 @@ body{
 }
 .screen{
     width: 224px;
+    height: 40px;
     background-color: rgb(176, 205, 176);
     font-size: 40px;
     text-align: end;
@@ -48,6 +49,14 @@ button:active{
 }
 #equals:hover{
     background-color: rgb(198, 198, 198);
+}
+#del{
+    background-color: rgb(255, 0, 106);
+    width:50%;
+    font-size: 20px;
+}
+#del:hover{
+    background-color: rgba(255, 0, 106, 0.123);
 }
 #clear{
     width: 100%;
