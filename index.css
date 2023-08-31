@@ -67,3 +67,10 @@ button:active{
 #clear:hover{
     background-color:rgb(252, 201, 17 );
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    font-weight: bolder;
+}
