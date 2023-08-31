@@ -1,3 +1,5 @@
+alert("Welcome to RGSS calculator")
+
 const screenDisplay = document.querySelector('.screen')
 const buttons = document.querySelectorAll('button')
 // console.log(buttons)
