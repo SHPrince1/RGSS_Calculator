@@ -3,13 +3,25 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(51, 84,84);
+    background-color: #2a3374;
 }
 
 .calculator{
     background-color: rgb(211, 211,211) ;
     padding: 20px;
     border-radius: 20px;
+}
+.image {
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.imgs{
+
+    border-radius:60%;
+    margin-top: 10px;
+    
 }
 .screen{
     width: 224px;
